@@ -1,16 +1,16 @@
-layout_spectrum: 0.3558298358693719
-typography_spectrum: 0.5940564584452659
+layout_spectrum: 0.3874380511697382
+typography_spectrum: 0.6403379887342453
 color:
-  brandStrength: 0.9127046738285571
-  lightness: 0.2249798255506903
-  saturation: 0.5609244396910071
-  rhythmicContrast: 0.32482963684014976
+  brandStrength: 0.34813040401786566
+  lightness: 0.9469550168141723
+  saturation: 0.5175538624171168
+  rhythmicContrast: 0.643889894708991
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
 name: Young GZ
 author:
   name: GZ
