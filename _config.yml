@@ -6,9 +6,11 @@ color:
   saturation: 0.5609244396910071
   rhythmicContrast: 0.32482963684014976
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Young GZ
+author:
+  name: GZ
